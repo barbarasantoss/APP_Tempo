@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tempo</string>
+    <string name="_30_c">30°C</string>
+    <string name="brasil_sao_paulo">Brasil - São Paulo</string>
+    <string name="info_view">Climatempo</string>
+    <string name="buscar">Pesquisar</string>
+    <string name="buscar_cidade">Climatempo da Cidade</string>
+    <string name="temp_min_n_21_n_n_temp_max_n_25">Temp.Min \n 21°C \n\n Temp. Max \n 30°C</string>
+    <string name="clima_n_ceu_limpo_n_n_umidade_n_50">Clima \n Ceu Limpo \n\n Umidade \n 50%</string>
+</resources>
